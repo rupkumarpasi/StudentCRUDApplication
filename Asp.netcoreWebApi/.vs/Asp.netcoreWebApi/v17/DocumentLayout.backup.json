@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\OneDrive\\Desktop\\CrudAPP\\Asp.netcoreWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132FB5AA-B530-4FE5-A8A2-BC0A8ED4D9CC}|Asp.netcoreWebApi\\Asp.netcoreWebApi.csproj|c:\\users\\acer\\onedrive\\desktop\\crudapp\\asp.netcorewebapi\\asp.netcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{132FB5AA-B530-4FE5-A8A2-BC0A8ED4D9CC}|Asp.netcoreWebApi\\Asp.netcoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\CrudAPP\\Asp.netcoreWebApi\\Asp.netcoreWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Asp.netcoreWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\CrudAPP\\Asp.netcoreWebApi\\Asp.netcoreWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Asp.netcoreWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T13:33:43.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
