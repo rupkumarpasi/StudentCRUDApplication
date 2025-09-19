@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDApplicationWebAPI", "CRUDApplicationWebAPI\CRUDApplicationWebAPI.csproj", "{61D07A7A-8A00-49A2-ACFC-A20D0B755541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D07A7A-8A00-49A2-ACFC-A20D0B755541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D07A7A-8A00-49A2-ACFC-A20D0B755541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D07A7A-8A00-49A2-ACFC-A20D0B755541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D07A7A-8A00-49A2-ACFC-A20D0B755541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC45A06C-D3C3-4CEA-A6B1-0A95446D0A6B}
+	EndGlobalSection
+EndGlobal
